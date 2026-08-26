@@ -1,5 +1,5 @@
 const META_URL = "http://ip-api.com/json/";
-const TARGET_URL = "https://translate.google.com.vn/?sl=en&tl=vi&op=translate";
+const TARGET_URL = "";
 
 const ALLOWED_ASNS = new Set([
   "AS7552",
