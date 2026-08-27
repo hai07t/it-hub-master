@@ -1,5 +1,5 @@
 const META_URL = "http://ip-api.com/json/";
-const TARGET_URL = "";
+const TARGET_URL = " ";
 
 const ALLOWED_ASNS = new Set([
   "AS7552",
